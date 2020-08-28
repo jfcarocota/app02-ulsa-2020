@@ -1,3 +1,7 @@
 #pokemon-image{
     width: 30%;
 }
+
+.pokemonImage{
+    border: solid;
+}
